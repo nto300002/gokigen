@@ -35,7 +35,7 @@
 ## 技術スタック
 
 - フロントエンド：Next.js
-- バックエンド：FastAPI
+- バックエンド：FastAPI 使い勝手の良さ python と機械学習系のライブラリとのシナジーがある
 - インフラストラクチャ：Google Cloud Platform (GCP)
 - 画像認識：顔認識および感情分析 AI
 
